@@ -23,6 +23,7 @@ $w->endElement();
 
 $w->startElement('Data_nascimento');
 $w->text($dataNascimento);
+$w->endElement();
 
 $w->startElement('Altura');
 $w->text($altura);
@@ -36,4 +37,3 @@ $resultado = $w->outputMemory(); // Acessa o documento como uma string
 
 echo($resultado);
 
-###
