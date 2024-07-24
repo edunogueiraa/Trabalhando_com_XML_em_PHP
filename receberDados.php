@@ -35,3 +35,5 @@ $w->endDocument(); // Finaliza o documento
 $resultado = $w->outputMemory(); // Acessa o documento como uma string
 
 echo($resultado);
+
+###
