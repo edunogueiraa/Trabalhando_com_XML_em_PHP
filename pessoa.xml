@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoa>
+  <nome>Eduardo</nome>
+  <dataNascimento>12/12/1234</dataNascimento>
+  <altura>1.88</altura>
+  <dependentes>
+    <dependente>
+      <nomeDep>Pedro</nomeDep>
+      <dataNascimentoDep>23/23/2345</dataNascimentoDep>
+    </dependente>
+    <dependente>
+      <nomeDep>Maria</nomeDep>
+      <dataNascimentoDep>45/45/4567</dataNascimentoDep>
+    </dependente>
+  </dependentes>
+</pessoa>
